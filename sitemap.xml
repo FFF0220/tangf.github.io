@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tangf.github.io/2018/08/02/test-hexo/</loc>
+    
+    <lastmod>2019-06-04T10:13:42.194Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://tangf.github.io/404.html</loc>
     
     <lastmod>2019-06-04T08:07:52.952Z</lastmod>
@@ -33,27 +40,6 @@
     <loc>https://tangf.github.io/categories/index.html</loc>
     
     <lastmod>2019-06-04T07:00:58.034Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://tangf.github.io/2018/08/02/test-hexo/</loc>
-    
-    <lastmod>2019-06-04T07:00:58.028Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://tangf.github.io/2018/10/11/javascript-book/</loc>
-    
-    <lastmod>2019-06-04T07:00:58.023Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://tangf.github.io/2017/07/13/hello%20hexo/</loc>
-    
-    <lastmod>2019-06-04T07:00:58.019Z</lastmod>
     
   </url>
   
