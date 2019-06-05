@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://tangf.github.io/"/>
-  <updated>2019-06-04T10:13:42.194Z</updated>
+  <updated>2019-06-05T03:34:56.862Z</updated>
   <id>https://tangf.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>对五月的一个小结</title>
+    <link href="https://tangf.github.io/2019/06/05/May-summary/"/>
+    <id>https://tangf.github.io/2019/06/05/May-summary/</id>
+    <published>2019-06-05T02:28:12.471Z</published>
+    <updated>2019-06-05T03:34:56.862Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h4><p>五月是繁忙的一个月。</p><h4 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h4><p>公司两个新项目赶着六月初上线，一个PC管理后台系统，一个PC网站。为了赶进度，暂时实行了996工作制。<br>项目上，PC管理后台尝试了<code>Vue</code>来搭，查看了市场上比较常用的几个基于<code>Vue</code>的组件库（<code>iview</code>，<code>element-ui</code>，<code>antd</code>等），发现大部分对IE兼容都不太好，然后因为项目时间短，现阶段来说学习成本高，所以还是选择了<code>Layui Admin 单页版</code>。<br>PC会员端采用了最传统的方式，为了以后修改方便，还是把公共部分提出来，用打包的方式完成页面。<br>总的来说，项目如期上线，没有遇到什么大问题，但是有些问题还是值得记录下，后续单独写出来。</p><h4 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h4><p>因为整个五月都是在加班，之前的健身计划被搁置（其实也不完全因为加班，就是自己的拖延症！）。吃饭都很有罪恶感，这个月应该重拾健身计划了，装备都准备好了，称也买了，就差行动了。</p><h4 id="拖延"><a href="#拖延" class="headerlink" title="拖延"></a>拖延</h4><p>工作也有，生活也有，所以单独说。<br>工作上，比如这个博客，居然是17年就搭好了，主题都换了两三个（捂脸.jpg），笔记也写的乱七八糟，之前遇到的坑还在继续踩。所以，这个月开始，养成一个良好的习惯，整齐，规范的记录！<br>生活上，就是健身没去，书没看，考试放弃，尤克里里没摸。</p><h4 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h4><ul><li>项目上遇到的问题，记录一下；</li><li>重拾健身计划，吃也注意下；<br>Flag已立下，怎么做自己了！加油！</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h4&gt;&lt;p&gt;五月是繁忙的一个月。&lt;/p&gt;
+&lt;h4 id=&quot;工作&quot;&gt;&lt;a href=&quot;#工作&quot; class=&quot;headerlink&quot; title=&quot;工作&quot;
+      
+    
+    </summary>
+    
+    
+      <category term="闲聊" scheme="https://tangf.github.io/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>MarkDown写作规范</title>
